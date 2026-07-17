@@ -1,0 +1,9 @@
+{
+  "agent_id": "af1003f94e383f3ae",
+  "agent_type": "Explore",
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "SubagentStart",
+  "prompt_id": "a0b70e8d-cad0-43b1-922e-ac110046b33b",
+  "session_id": "9a584be0-ccaf-4fd3-930b-68bee4b41540",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540.jsonl"
+}

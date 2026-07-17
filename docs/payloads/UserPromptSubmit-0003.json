@@ -1,0 +1,9 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "UserPromptSubmit",
+  "permission_mode": "default",
+  "prompt": "Reply with exactly: hello",
+  "prompt_id": "e713befc-9820-4c07-91f4-47972db0adc6",
+  "session_id": "db2f1744-456e-4682-89b5-3eacfd225658",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/db2f1744-456e-4682-89b5-3eacfd225658.jsonl"
+}

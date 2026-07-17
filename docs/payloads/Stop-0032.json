@@ -1,0 +1,12 @@
+{
+  "background_tasks": [],
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "Stop",
+  "last_assistant_message": "Here are the final counts:\n\n- **.toml files: 0** (none in the current repository)\n- **.json files: 23**",
+  "permission_mode": "default",
+  "prompt_id": "9bbc356a-d351-4614-9043-63633c1c6dae",
+  "session_crons": [],
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

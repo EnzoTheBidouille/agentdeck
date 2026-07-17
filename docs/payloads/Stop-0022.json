@@ -1,0 +1,27 @@
+{
+  "background_tasks": [
+    {
+      "agent_type": "general-purpose",
+      "description": "Count .toml files using Glob",
+      "id": "acba0006f3a4ff52d",
+      "status": "running",
+      "type": "subagent"
+    },
+    {
+      "agent_type": "general-purpose",
+      "description": "Count .json files using Glob",
+      "id": "a1f3a70ba06056774",
+      "status": "running",
+      "type": "subagent"
+    }
+  ],
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "Stop",
+  "last_assistant_message": "Both agents are now running in parallel. I'll wait for their results to come back.",
+  "permission_mode": "default",
+  "prompt_id": "fef1ec42-492c-4b6b-9158-b67da99d9665",
+  "session_crons": [],
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

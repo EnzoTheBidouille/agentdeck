@@ -1,0 +1,9 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "UserPromptSubmit",
+  "permission_mode": "default",
+  "prompt": "hi",
+  "prompt_id": "e5634ce0-7cc7-4577-93e1-056a751b9c06",
+  "session_id": "4c101925-e94e-43ba-905c-a3f0fd3b3940",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/4c101925-e94e-43ba-905c-a3f0fd3b3940.jsonl"
+}

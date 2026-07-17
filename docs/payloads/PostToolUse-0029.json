@@ -1,0 +1,74 @@
+{
+  "agent_id": "acba0006f3a4ff52d",
+  "agent_type": "general-purpose",
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "duration_ms": 9016,
+  "hook_event_name": "PostToolUse",
+  "permission_mode": "default",
+  "prompt_id": "813020cd-fbfa-42d3-b7d4-b2de145bd262",
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "tool_input": {
+    "description": "Find and count all .toml files",
+    "prompt": "Find all .toml files in the repository at /home/user/agentdeck and count them. Use a pattern search or glob for **/*.toml to locate all .toml files. Report just the count as a number.",
+    "run_in_background": false,
+    "subagent_type": "Explore"
+  },
+  "tool_name": "Agent",
+  "tool_response": {
+    "agentId": "ac81c1343c79b7bc9",
+    "agentType": "Explore",
+    "content": [
+      {
+        "text": "I need permission to use Bash to search for .toml files using the `find` command. The Read tool requires specific file paths and cannot perform pattern-based file searches across a directory tree.\n\nCould you grant permission for me to run the find command to count all .toml files in the repository?",
+        "type": "text"
+      }
+    ],
+    "prompt": "Find all .toml files in the repository at /home/user/agentdeck and count them. Use a pattern search or glob for **/*.toml to locate all .toml files. Report just the count as a number.",
+    "resolvedModel": "claude-haiku-4-5-20251001",
+    "status": "completed",
+    "toolStats": {
+      "bashCount": 1,
+      "editFileCount": 0,
+      "linesAdded": 0,
+      "linesRemoved": 0,
+      "otherToolCount": 0,
+      "readCount": 0,
+      "searchCount": 0
+    },
+    "totalDurationMs": 9016,
+    "totalTokens": 11449,
+    "totalToolUseCount": 1,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 1015
+      },
+      "cache_creation_input_tokens": 1015,
+      "cache_read_input_tokens": 10066,
+      "inference_geo": "not_available",
+      "input_tokens": 8,
+      "iterations": [
+        {
+          "cache_creation": {
+            "ephemeral_1h_input_tokens": 0,
+            "ephemeral_5m_input_tokens": 1015
+          },
+          "cache_creation_input_tokens": 1015,
+          "cache_read_input_tokens": 10066,
+          "input_tokens": 8,
+          "output_tokens": 360,
+          "type": "message"
+        }
+      ],
+      "output_tokens": 360,
+      "server_tool_use": {
+        "web_fetch_requests": 0,
+        "web_search_requests": 0
+      },
+      "service_tier": "standard",
+      "speed": "standard"
+    }
+  },
+  "tool_use_id": "toolu_011tdbQnwpvqbyR5n2fcvzEW",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

@@ -1,0 +1,30 @@
+{
+  "agent_id": "ad1a5833a3115f5d1",
+  "agent_transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540/subagents/agent-ad1a5833a3115f5d1.jsonl",
+  "agent_type": "general-purpose",
+  "background_tasks": [
+    {
+      "agent_type": "general-purpose",
+      "description": "Count .md files using Glob",
+      "id": "ad1a5833a3115f5d1",
+      "status": "running",
+      "type": "subagent"
+    },
+    {
+      "agent_type": "Explore",
+      "description": "Count all markdown files using glob",
+      "id": "af1003f94e383f3ae",
+      "status": "running",
+      "type": "subagent"
+    }
+  ],
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "SubagentStop",
+  "last_assistant_message": "I've launched the Explore agent to count all .md files in the repository using the glob pattern. The agent is working in the background and will notify me when it completes. I'll share the results with you shortly.",
+  "permission_mode": "default",
+  "prompt_id": "a0b70e8d-cad0-43b1-922e-ac110046b33b",
+  "session_crons": [],
+  "session_id": "9a584be0-ccaf-4fd3-930b-68bee4b41540",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540.jsonl"
+}

@@ -1,0 +1,20 @@
+{
+  "background_tasks": [
+    {
+      "agent_type": "general-purpose",
+      "description": "Count .md files using Glob",
+      "id": "ad1a5833a3115f5d1",
+      "status": "running",
+      "type": "subagent"
+    }
+  ],
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "Stop",
+  "last_assistant_message": "Launched.",
+  "permission_mode": "default",
+  "prompt_id": "a0b70e8d-cad0-43b1-922e-ac110046b33b",
+  "session_crons": [],
+  "session_id": "9a584be0-ccaf-4fd3-930b-68bee4b41540",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540.jsonl"
+}

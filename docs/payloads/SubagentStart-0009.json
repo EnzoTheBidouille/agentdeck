@@ -1,0 +1,9 @@
+{
+  "agent_id": "a48ec88ddb26aeff3",
+  "agent_type": "general-purpose",
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "SubagentStart",
+  "prompt_id": "d02d8c3b-9585-4403-b473-dbd64fe9a831",
+  "session_id": "097177f4-db9c-4cbd-b942-664dc6733cac",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/097177f4-db9c-4cbd-b942-664dc6733cac.jsonl"
+}

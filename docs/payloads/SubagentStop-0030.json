@@ -1,0 +1,23 @@
+{
+  "agent_id": "acba0006f3a4ff52d",
+  "agent_transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4/subagents/agent-acba0006f3a4ff52d.jsonl",
+  "agent_type": "general-purpose",
+  "background_tasks": [
+    {
+      "agent_type": "general-purpose",
+      "description": "Count .toml files using Glob",
+      "id": "acba0006f3a4ff52d",
+      "status": "running",
+      "type": "subagent"
+    }
+  ],
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "SubagentStop",
+  "last_assistant_message": "I need permission to use Bash to search for .toml files in the repository. Could you please grant permission for me to run file search commands?",
+  "permission_mode": "default",
+  "prompt_id": "813020cd-fbfa-42d3-b7d4-b2de145bd262",
+  "session_crons": [],
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

@@ -1,0 +1,8 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "SessionStart",
+  "model": "claude-haiku-4-5-20251001",
+  "session_id": "2221611f-bb00-482e-bab7-39872827d065",
+  "source": "startup",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/2221611f-bb00-482e-bab7-39872827d065.jsonl"
+}

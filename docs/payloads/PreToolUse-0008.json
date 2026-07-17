@@ -1,0 +1,16 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "PreToolUse",
+  "permission_mode": "default",
+  "prompt_id": "d02d8c3b-9585-4403-b473-dbd64fe9a831",
+  "session_id": "097177f4-db9c-4cbd-b942-664dc6733cac",
+  "tool_input": {
+    "description": "Count .rs files in current directory",
+    "prompt": "Use the Glob tool to find all .rs files under the current directory and count them. Return only the number as your final answer.",
+    "run_in_background": false,
+    "subagent_type": "general-purpose"
+  },
+  "tool_name": "Agent",
+  "tool_use_id": "toolu_01WiPd4GDrYm8QSs39E2tRDd",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/097177f4-db9c-4cbd-b942-664dc6733cac.jsonl"
+}

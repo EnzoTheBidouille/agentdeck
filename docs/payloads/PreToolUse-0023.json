@@ -1,0 +1,18 @@
+{
+  "agent_id": "acba0006f3a4ff52d",
+  "agent_type": "general-purpose",
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "PreToolUse",
+  "permission_mode": "default",
+  "prompt_id": "fef1ec42-492c-4b6b-9158-b67da99d9665",
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "tool_input": {
+    "description": "Find and count all .toml files",
+    "prompt": "Find all .toml files in the repository at /home/user/agentdeck and count them. Use a pattern search or glob for **/*.toml to locate all .toml files. Report just the count as a number.",
+    "run_in_background": false,
+    "subagent_type": "Explore"
+  },
+  "tool_name": "Agent",
+  "tool_use_id": "toolu_011tdbQnwpvqbyR5n2fcvzEW",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

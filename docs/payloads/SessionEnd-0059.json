@@ -1,0 +1,8 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "SessionEnd",
+  "prompt_id": "934e821d-7011-4f09-8805-1251b674e709",
+  "reason": "other",
+  "session_id": "2221611f-bb00-482e-bab7-39872827d065",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/2221611f-bb00-482e-bab7-39872827d065.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "UserPromptSubmit",
+  "permission_mode": "default",
+  "prompt": "Use the Task tool to launch a single general-purpose subagent whose only job is to count the .rs files under the current directory using the Glob tool and return the number. Wait for its result, then reply with just that number.",
+  "prompt_id": "d02d8c3b-9585-4403-b473-dbd64fe9a831",
+  "session_id": "097177f4-db9c-4cbd-b942-664dc6733cac",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/097177f4-db9c-4cbd-b942-664dc6733cac.jsonl"
+}

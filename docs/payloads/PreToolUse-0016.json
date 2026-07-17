@@ -1,0 +1,15 @@
+{
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "PreToolUse",
+  "permission_mode": "default",
+  "prompt_id": "fef1ec42-492c-4b6b-9158-b67da99d9665",
+  "session_id": "e85d01f6-0cd0-4e71-ab11-0e9947becfe4",
+  "tool_input": {
+    "description": "Count .toml files using Glob",
+    "prompt": "Use the Glob tool to find all .toml files in the repository and return the count. Just return the number.",
+    "subagent_type": "general-purpose"
+  },
+  "tool_name": "Agent",
+  "tool_use_id": "toolu_012aicezh8BDLAgKtx1EV3s6",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/e85d01f6-0cd0-4e71-ab11-0e9947becfe4.jsonl"
+}

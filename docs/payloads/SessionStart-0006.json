@@ -1,0 +1,7 @@
+{
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "SessionStart",
+  "session_id": "097177f4-db9c-4cbd-b942-664dc6733cac",
+  "source": "startup",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/097177f4-db9c-4cbd-b942-664dc6733cac.jsonl"
+}

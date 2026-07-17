@@ -1,0 +1,8 @@
+{
+  "cwd": "/home/user/claude-pipeline",
+  "hook_event_name": "SessionEnd",
+  "prompt_id": "f7c3259a-1560-4757-b200-ada7dde59d21",
+  "reason": "other",
+  "session_id": "9a823c07-cf2f-49f4-98df-7fea7966b5a9",
+  "transcript_path": "/home/user/.claude/projects/-home-user-claude-pipeline/9a823c07-cf2f-49f4-98df-7fea7966b5a9.jsonl"
+}

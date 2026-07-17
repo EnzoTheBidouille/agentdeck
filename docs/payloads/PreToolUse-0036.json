@@ -1,0 +1,16 @@
+{
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "PreToolUse",
+  "permission_mode": "default",
+  "prompt_id": "a0b70e8d-cad0-43b1-922e-ac110046b33b",
+  "session_id": "9a584be0-ccaf-4fd3-930b-68bee4b41540",
+  "tool_input": {
+    "description": "Count .md files using Glob",
+    "prompt": "Count all .md (markdown) files in the repository using the Glob tool. Search for the pattern **/*.md starting from the repository root. Return the total count.",
+    "run_in_background": true,
+    "subagent_type": "general-purpose"
+  },
+  "tool_name": "Agent",
+  "tool_use_id": "toolu_01WbJhjKFXJXXFvXW2AixKGP",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540.jsonl"
+}

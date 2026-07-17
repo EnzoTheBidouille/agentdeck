@@ -1,0 +1,18 @@
+{
+  "agent_id": "a3f13f10054c18a04",
+  "agent_transcript_path": "/home/user/.claude/projects/-home-user-kuzzle/b440c27d-fc86-4edf-ae03-2ff3dbe902ed/subagents/agent-a3f13f10054c18a04.jsonl",
+  "agent_type": "",
+  "background_tasks": [],
+  "cwd": "/home/user/kuzzle",
+  "effort": {
+    "level": "high"
+  },
+  "hook_event_name": "SubagentStop",
+  "last_assistant_message": "commit this on a branch",
+  "permission_mode": "bypassPermissions",
+  "prompt_id": "d101e3c6-8855-4f62-b487-964d01a4620b",
+  "session_crons": [],
+  "session_id": "b440c27d-fc86-4edf-ae03-2ff3dbe902ed",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-kuzzle/b440c27d-fc86-4edf-ae03-2ff3dbe902ed.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "cwd": "/home/user/kuzzle",
+  "hook_event_name": "Notification",
+  "message": "Claude is waiting for your input",
+  "notification_type": "idle_prompt",
+  "prompt_id": "d101e3c6-8855-4f62-b487-964d01a4620b",
+  "session_id": "b440c27d-fc86-4edf-ae03-2ff3dbe902ed",
+  "transcript_path": "/home/user/.claude/projects/-home-user-kuzzle/b440c27d-fc86-4edf-ae03-2ff3dbe902ed.jsonl"
+}

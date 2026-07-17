@@ -1,0 +1,12 @@
+{
+  "background_tasks": [],
+  "cwd": "/home/user/agentdeck",
+  "hook_event_name": "Stop",
+  "last_assistant_message": "ok",
+  "permission_mode": "default",
+  "prompt_id": "1aad621b-367d-4fc8-95ad-d7ed2ed55e69",
+  "session_crons": [],
+  "session_id": "2b712c83-7e1d-44ee-abf7-c116bc634235",
+  "stop_hook_active": false,
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck/2b712c83-7e1d-44ee-abf7-c116bc634235.jsonl"
+}

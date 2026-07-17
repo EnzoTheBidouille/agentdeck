@@ -1,0 +1,9 @@
+{
+  "cwd": "/home/user/agentdeck/docs/payloads",
+  "hook_event_name": "UserPromptSubmit",
+  "permission_mode": "default",
+  "prompt": "Launch one general-purpose subagent with run_in_background set to true, whose job is to count .md files with Glob. Do not wait for it — immediately reply 'launched' and end your turn.",
+  "prompt_id": "a0b70e8d-cad0-43b1-922e-ac110046b33b",
+  "session_id": "9a584be0-ccaf-4fd3-930b-68bee4b41540",
+  "transcript_path": "/home/user/.claude/projects/-home-user-agentdeck-docs-payloads/9a584be0-ccaf-4fd3-930b-68bee4b41540.jsonl"
+}
